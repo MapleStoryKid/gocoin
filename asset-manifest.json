@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "/gocoin/static/js/main.282d2386.js",
+    "main.js": "/gocoin/static/js/main.15d09275.js",
     "index.html": "/gocoin/index.html",
-    "main.282d2386.js.map": "/gocoin/static/js/main.282d2386.js.map"
+    "main.15d09275.js.map": "/gocoin/static/js/main.15d09275.js.map"
   },
   "entrypoints": [
-    "static/js/main.282d2386.js"
+    "static/js/main.15d09275.js"
   ]
 }
